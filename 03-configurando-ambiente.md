@@ -46,6 +46,7 @@ Abra um terminal no Kali e rode:
 ```
 sudo apt update && sudo apt upgrade -y
 ```
+(vai demorar um pouquinho)
 
 Ferramentas essenciais pra garantir:
 
