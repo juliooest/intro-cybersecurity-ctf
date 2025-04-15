@@ -16,6 +16,6 @@ Esse projeto não existiria sem o apoio de quem me guiou desde o começo:
 - [Richard "Rick" Natan](https://www.linkedin.com/in/richard-natan/)  
 - [Gabriel Bezerra (BeZe)](https://www.linkedin.com/in/gabriel-bezerra-silva/)
 
-Vocês me ensinaram 90% do que eu sei — e agora tô passando a visão pra frente.
+Vocês me ensinaram 90% do que eu sei e agora tô passando a visão pra frente.
 
 ૮꒰ ˶• ༝ •˶꒱ა ♡
