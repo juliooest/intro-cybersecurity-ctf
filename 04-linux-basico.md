@@ -14,24 +14,24 @@ Dominar alguns comandos básicos de Linux vai economizar um tempo absurdo nos CT
   ls -la       # com detalhes e arquivos ocultos
   ```
 
-- **Entrar numa pasta:
+- Entrar numa pasta:
 ```
 cd pasta/
 ```
 
-- **Ver pasta atual:
+- Ver pasta atual:
 ```
 pwd
 ```
 
 ### Trabalhando com arquivos:
 
-- **Criar arquivo vazio:
+- Criar arquivo vazio:
 ```
 touch arquivo.txt
 ```
 
-- **Ver conteúdo de arquivo:
+- Ver conteúdo de arquivo:
 ```
 cat arquivo.txt
 less arquivo.txt  # mais detalhado, navegação com setas
@@ -46,7 +46,7 @@ rm arquivo.txt
 
 ### Pesquisar arquivos ou texto:
 
-- **Localizar arquivos pelo nome:
+- Localizar arquivos pelo nome:
 ```
 find / -name arquivo.txt 2>/dev/null
 ```
@@ -59,12 +59,12 @@ grep -r 'palavra-chave' pasta/
 
 ### Permissões de arquivos (muito útil!):
 
-- **Ver permissões:
+- Ver permissões:
 ```
 ls -l arquivo.txt
 ```
 
-- **Mudar permissões:
+- Mudar permissões:
 ```
 chmod +x arquivo.sh   # tornar executável
 chmod 644 arquivo.txt # permissões específicas (leitura/escrita)
@@ -72,12 +72,12 @@ chmod 644 arquivo.txt # permissões específicas (leitura/escrita)
 
 ### Usuários e privilégios:
 
-- **Ver usuário atual:
+- Ver usuário atual:
 ```
 whoami
 ```
 
-- **Mudar de usuário (útil em CTF!)
+- Mudar de usuário (útil em CTF!)
 ```
 su usuario
 sudo -l  # ver o que você pode executar como sudo
@@ -85,13 +85,13 @@ sudo -l  # ver o que você pode executar como sudo
 
 ### Monitorar processos e rede:
 
-- **Listar processos:
+- Listar processos:
 ```
 ps aux
 top
 ```
 
-- **Checar conexões de rede:
+- Checar conexões de rede:
 ```
 netstat -tunlp
 ss -tulnp
