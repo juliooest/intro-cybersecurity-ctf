@@ -22,4 +22,4 @@ Bem-vindo ao guia prático e direto de introdução ao mundo da Cybersegurança,
 ## 🚀 Bora Começar?
 
 Se é a primeira vez que você tá encostando em Cybersec, **começa pela Introdução**.  
-Se já tá no gás, pula direto pro TryHackMe e começa a brincar com máquinas reais.
+Se já tá no gás, pula direto pro TryHackMe e começa dale com máquinas reais, teu aprendizado vai ser bem mais rapido.
