@@ -4,7 +4,8 @@
 
 **Um guia prático e direto ao ponto para quem quer começar na Cybersegurança através de desafios CTF.**  
 Aqui você vai aprender os fundamentos, configurar seu ambiente e começar com labs no **TryHackMe** e **HackTheBox** — sem enrolação, sem teoria chata, só o que importa pra evoluir de verdade.
-
+Clique aqui pra acessar:
+https://juliooest.github.io/intro-cybersecurity-ctf/
 ---
 
 ## 🙏 Agradecimentos especiais
