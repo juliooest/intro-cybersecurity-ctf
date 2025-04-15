@@ -10,7 +10,7 @@ O Kali Linux é o sistema operacional mais usado pra pentesting e CTF, porque j�
 
 - Baixe aqui: [Kali Linux Downloads](https://www.kali.org/get-kali/#kali-virtual-machines)
 - Recomendo baixar a versão pronta pra VirtualBox:
-  - [VirtualBox Images](https://www.kali.org/get-kali/#kali-virtual-machines)
+- [VirtualBox Images](https://www.kali.org/get-kali/#kali-virtual-machines)
 
 ### Configurando no VirtualBox:
 
